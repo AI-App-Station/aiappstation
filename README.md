@@ -1,4 +1,4 @@
-# AI App Station
+# AI App Station (Beta)
 It's probably the last AI App Store you'll ever need.
 
 
